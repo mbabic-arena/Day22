@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import "./App.css";
 import Plant from "./Plant";
 
 function App() {
