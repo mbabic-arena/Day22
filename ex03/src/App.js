@@ -1,4 +1,3 @@
-import React, { Component } from "react";
 import Plant from "./Plant";
 
 function App() {
